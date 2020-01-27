@@ -3,7 +3,7 @@
 
 **Teacher**: Prof. Reza Mohammadi
 
-**Technology Stack**: ReactJS, FontAwesome, CSS3, Socket.IO
+**Technology Stack**: ReactJS, Webpack, FontAwesome, CSS3, Socket.IO
 
 The project is a management portal for employees of an organization. Long story short, it's a simple CRUD exercise with a solid foucus on APIs and data validation.
 
