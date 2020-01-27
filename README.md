@@ -7,6 +7,6 @@
 
 ![](/demo.gif)
 
-This repo contains only front-end code (in production mode) of the project. please don't hesitate to contact me if you need backend codes.
+This repo contains only front-end code (in production mode). Please don't hesitate to contact me if you need backend codes.
 
 
