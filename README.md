@@ -1,8 +1,10 @@
 # IE
-Internet Engineering Course Project
+Internet Engineering Course Project (Front-End Only)
 
-پروژه درس مهندسی اینترنت
-ترم ۹۸۱
+Teacher: Prof. Reza Mohammadi
 
-استاد: دکتر رضا محمدی
+Technology Stack: ReactJS, FontAwesome, CSS3
+
+![](/demo.gif)
+
 
