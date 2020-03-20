@@ -1,0 +1,11 @@
+#search-btn {
+    border-radius: 10px !important;
+}
+.edit-btn {
+    background-color: yellow;
+    color: rgb(0, 0, 70)
+}
+
+.edit-btn:hover {
+    background-color: #e2e202;
+}

@@ -1,0 +1,32 @@
+.employee-info {
+    font-size: 13px;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+    margin-bottom: 20px;
+    transition: all .6s ease-in-out;
+}
+.employee-info td, .employee-info th{
+    border: 1px solid #ddd;
+    padding: 10px 10px;
+    text-align: center !important;
+    transition: all .6s ease-in-out;
+}
+.employee-info th {
+
+  text-align: center;
+  padding-left: 45px;
+  padding-right: 45px;
+  background-color: #4CAF50;
+  color: white;
+  transition: all .6s ease-in-out;
+}
+.del-btn {
+    background-color: rgb(200, 0, 0);
+}
+.del-btn:hover {
+    background-color: rgb(160, 0, 0);
+}
+.employee-info td {
+    height: 40px;
+}

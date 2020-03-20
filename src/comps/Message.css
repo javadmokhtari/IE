@@ -1,0 +1,24 @@
+.message {
+    background-color: orange;
+  }
+  .message p {
+    margin: 0;
+    padding: 10px;
+    font-size: 12px;
+    opacity: 0;
+    transition: all .3s ease-in-out;
+  }
+  #close {
+    font-weight: 900;
+    position: relative;
+    top: 2px;
+    color: grey;
+  }
+
+  #close:hover {
+    cursor: pointer;
+  }
+  .close {
+    opacity: 0;
+    transition: .6s all ease-in-out;
+  }
